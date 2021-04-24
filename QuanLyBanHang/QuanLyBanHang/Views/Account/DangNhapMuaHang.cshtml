@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewBag.Title = "DangNhapMuaHang";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+}
+@using (Html.BeginForm("DangNhap", "Account"))
+{
+    <div class="form-horizontal">
+        <div class="form-group col-md-12">
+            Tên đăng nhập:
+            <input class="col-md-6 form-control" type="text" name="UserName" />
+        </div>
+        <div class="form-group col-md-12">
+            Mật khẩu:
+            <input class="col-md-6 form-control" type="text" name="Password" />
+        </div>
+        <div class="form-group col-md-12">
+            <input type="submit" value="Đăng nhập" />
+        </div>
+    </div>
+}
+

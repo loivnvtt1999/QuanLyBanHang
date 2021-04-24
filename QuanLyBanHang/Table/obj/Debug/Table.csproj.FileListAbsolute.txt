@@ -1,0 +1,16 @@
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\bin\Debug\Table.dll
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\bin\Debug\Table.pdb
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\obj\Debug\Table.csprojAssemblyReference.cache
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\obj\Debug\Table.dll
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\obj\Debug\Table.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\bin\Debug\Table.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\bin\Debug\Table.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\obj\Debug\Table.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\obj\Debug\Table.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\bin\Debug\Table.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\bin\Debug\Table.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\obj\Debug\Table.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\Table\obj\Debug\Table.pdb

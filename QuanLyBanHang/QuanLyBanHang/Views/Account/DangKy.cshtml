@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "DangKy";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+}
+
+<h2>Đăng ký tài khoản</h2>
+@using (Html.BeginForm("DangKy","Account"))
+{
+<div class="form-horizontal" style="text-align:center;">
+    <h4><b>THÔNG TIN CÁ NHÂN</b></h4><br />
+    <div style="height:auto; width:100%; border:1px solid; text-align:left;">
+        <b>Tên đầy đủ:</b>
+        <input type="text" name="TenDayDu" class="form-control col-md-10" required="required" /><br />
+        <b>Địa chỉ:</b>
+        <input type="text" name="DiaChi" class="form-control" required="required" /><br />
+        <b>Số điện thoại:</b>
+        <input type="text" name="SDT" class="form-control" required="required" /><br />
+    </div>
+    <h4><b>THÔNG TIN TÀI KHOẢN</b></h4><br />
+    <div style="height:auto; width:100%; border:1px solid; text-align:left;">
+        <b>Tên đăng nhập:</b>
+        <input type="text" name="TenDangNhap" class="form-control col-md-10" required="required" /><br />
+        <b>Mật khẩu:</b>
+        <input type="text" name="MatKhau" class="form-control" required="required" /><br />
+    </div>
+    <input type="submit" class="btn btn-success" value="Tạo tài khoản" />
+</div>
+}
+<span><i style="color:red;">@ViewBag.trungtendn</i></span>
+

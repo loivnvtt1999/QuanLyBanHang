@@ -1,0 +1,85 @@
+﻿@model IEnumerable<QuanLyBanHang.Models.GioHang>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutMain.cshtml";
+}
+
+<h2>Giỏ hàng của bạn</h2>
+@if (Model.Count() != 0)
+{
+    <table class="table table-striped">
+        <tr>
+            <th>
+                Sản phẩm
+            </th>
+            <th>
+                Tên sản phẩm
+            </th>
+            <th>
+                Giá sản phẩm
+            </th>
+            <th>
+                Số lượng
+            </th>
+            <th>
+                Cập nhật số lượng
+            </th>
+            <th>
+                Xóa
+            </th>
+            <th>
+                Thành tiền
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="~/Image/@item.hinhanhSanPham" style="height:100px; width:100px;" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.tenSanPhamMua)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.giaSanPhamMua)
+                </td>
+                @using (Html.BeginForm("capNhatSoLuong", "GioHang"))
+                {
+                    <td>
+                        <input type="number" value="@item.soLuongSanPhamMua" name="soLuongSP" style="width:50px;" />
+                        <input type="text" value="@item.maSanPhamMua" name="maSanPhamMua" hidden="hidden" />
+                    </td>
+                    <td>
+                        <input type="submit" value="Cập nhật" />
+                    </td>
+                }
+                <td>
+                    <a href="@Url.Action("xoaSanPham","GioHang",new {maSanPhamMua=item.maSanPhamMua})">Xóa</a>
+                </td>
+                <td>
+                    @item.thanhtien()
+                </td>
+            </tr>
+        }
+    </table>
+    <h4 style="padding-left:280px;"><b>TỔNG THÀNH TIỀN: @Session["thanhtien"]</b></h4>
+    <h4><a style="float:right; padding-left:50px; color:crimson;" href="@Url.Action("DatHang","Orders")">Đặt hàng</a></h4>
+    <br />
+    <h4><a href="@Url.Action("Index", "Products")" style="float:right;">Tiếp tục mua hàng</a></h4>
+    if (Session["chuadn"] != null)
+    {
+        <span style="text-align:center;"><i>@Session["chuadn"]</i></span>
+    }
+}
+else if (Session["dathangthanhcong"] != null)
+{
+    <span style="text-align:center;"><i>@Session["dathangthanhcong"]</i></span>
+    <h4><a href="@Url.Action("Index", "Products")" style="float:right;">Tiếp tục mua hàng</a></h4>
+}
+else
+{
+    <h3><i>@ViewBag.khong</i></h3>
+    <h4><a href="@Url.Action("Index", "Products")" style="float:right;">Tiếp tục mua hàng</a></h4>
+}

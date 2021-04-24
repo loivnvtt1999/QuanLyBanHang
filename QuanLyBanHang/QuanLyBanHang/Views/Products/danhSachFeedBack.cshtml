@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Table.Feedback>
+@{
+    ViewBag.Title = "danhSachFeedBack";
+    Layout = null;
+}
+<h2>Phản hồi từ khách hàng</h2>
+@foreach (var item in Model)
+{
+    <div style="width:100%; height:auto; border:1px solid;">
+        <h5><b>Khách hàng:</b> @item.GetCustomer.ContactName</h5>
+        <b>Tiêu đề</b>:@item.FeedbackTitle<br />
+        <b>Nội dung</b>:@item.FeedbackContent<br />
+    </div>
+}
+@ViewBag.chuacofeedback
+
+
+

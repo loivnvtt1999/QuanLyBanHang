@@ -1,0 +1,32 @@
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\Table.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\DAL.dll.config
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\Table.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\obj\Debug\BUS.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\EntityFramework.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\Table.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\DAL.dll.config
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\Table.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\EntityFramework.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\BUS\obj\Debug\BUS.pdb

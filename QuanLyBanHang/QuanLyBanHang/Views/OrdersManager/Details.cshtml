@@ -1,0 +1,65 @@
+﻿@model Table.Order
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<div>
+    <h4>Hóa đơn</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.GetCustomer.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GetCustomer.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RequiredDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RequiredDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ShippedDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShippedDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Freight)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Freight)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ShipAddress)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShipAddress)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.OrderID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+@Html.Action("danhSachChiTietTheoMaHoaDon", "OrdersManager", new {ma=Model.OrderID });

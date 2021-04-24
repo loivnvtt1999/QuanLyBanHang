@@ -1,0 +1,48 @@
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\DAL.dll.config
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\DAL.dll
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\DAL.pdb
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\EntityFramework.dll
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\EntityFramework.SqlServer.dll
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\Table.dll
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\Table.pdb
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\EntityFramework.xml
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\EntityFramework.SqlServer.xml
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CopyComplete
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.dll
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.pdb
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.Migrations.v1.resources
+T:\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\DAL.dll.config
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\DAL.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\DAL.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\Table.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\Table.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.Migrations.v1.resources
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\DAL.dll.config
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\DAL.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\DAL.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\EntityFramework.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\Table.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\Table.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\EntityFramework.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.Migrations.v1.resources
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\DAL\obj\Debug\DAL.pdb

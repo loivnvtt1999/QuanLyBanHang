@@ -1,0 +1,134 @@
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll.config
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe.config
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.rsp
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.exe
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.rsp
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.AppContext.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe.config
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.rsp
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\WebGrease.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\EntityFramework.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Table.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\EntityFramework.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Table.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\DAL.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\DAL.pdb
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\DAL.dll.config
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\BUS.dll
+C:\Users\ASUS\OneDrive\Desktop\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\BUS.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll.config
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\QuanLyBanHang.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.exe.config
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csc.rsp
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.exe
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\csi.rsp
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.AppContext.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.exe.config
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\vbc.rsp
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\BUS.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\DAL.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\EntityFramework.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\EntityFramework.SqlServer.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Table.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\WebGrease.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\BUS.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\DAL.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\DAL.dll.config
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Table.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\EntityFramework.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\EntityFramework.SqlServer.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Helpers.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Mvc.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Optimization.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.Razor.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\System.Web.WebPages.Razor.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Newtonsoft.Json.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Antlr3.Runtime.pdb
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csprojAssemblyReference.cache
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.csproj.CopyComplete
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.dll
+D:\ASP.Net MVC\Project\PhamDucLoi_17063441_BaiTapLonWWW\QuanLyBanHang\QuanLyBanHang\obj\Debug\QuanLyBanHang.pdb

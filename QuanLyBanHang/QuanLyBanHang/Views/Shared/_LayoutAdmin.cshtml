@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div style="height:100%; width:100%; border:1px solid;">
+        <div class="col-md-12" style="border: 1px solid;">
+            <div class="col-md-12" style="height:200px; border: 1px solid; text-align:center;">
+                <img src="~/Image/banner.jpg" style="height:100%; width:70%;" />
+            </div>
+            <div class="col-md-12" style="height:120px; border: 1px solid;">
+                <ul style="list-style-type:none; list-style-position:initial;">
+                    @if (!Request.IsAuthenticated)
+                    {
+                        <li style="height:50px; width:120px; float:left;">
+                            <a style="text-decoration:none;" href="@Url.Action("DangNhapAdmin","Account")">Đăng nhập</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li style="height:50px; width:120px; float:left;">
+                            Xin chào: @Session["loginadmin"]
+                        </li>
+                        <li style="height:50px; width:120px; float:left;">
+                            <a style="text-decoration:none;" href="@Url.Action("DangXuatAdmin","Account")">Đăng xuất</a>
+                        </li>
+                    }
+                </ul>
+            </div>
+            <div class="col-md-12">
+                <div class="col-md-3" style="border:1px solid;">
+                    @Html.Action("QuanLy", "Account")
+                </div>
+                <div class="col-md-9" style="border: 1px solid;">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
